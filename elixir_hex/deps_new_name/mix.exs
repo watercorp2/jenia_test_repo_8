@@ -3,7 +3,6 @@ defmodule JeniaTest.Mixfile do
 
   def project do
     [
-
       app: :jenia_test,
       version: "0.1.2",
       elixir: "~> 1.5",

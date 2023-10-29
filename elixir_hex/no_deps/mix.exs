@@ -1,7 +1,6 @@
 defmodule JeniaTest.Mixfile do
   use Mix.Project
 
-
   def project do
     [
       app: :jenia_test,
