@@ -8,7 +8,9 @@ defmodule JeniaTest.Mixfile do
       elixir: "~> 1.5",
       config_path: "config/config.exs",
       start_permanent: Mix.env == :prod,
-      deps: jenia()
+      deps: [
+        {:file_system, "== 0.2.10"}
+      ]
     ]
   end
 
@@ -16,9 +18,4 @@ defmodule JeniaTest.Mixfile do
     [extra_applications: [:logger]]
   end
 
-  defp jenia do
-    [
-      {:file_system, "== 0.2.10"}
-    ]
-  end
 end
