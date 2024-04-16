@@ -1,10 +1,7 @@
 [package]
-name = "rust-async-lock-restore-test"
-version = "0.1.100"
-edition = "2021"
-
-# 19.3.2023 12:38
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+name = "Cargotest"
+version = "0.1.1"
+authors = ["ronsadikov"]
 
 [dependencies]
-chrono = "0.1"
+regex = "1.0.0"
