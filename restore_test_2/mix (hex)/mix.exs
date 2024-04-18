@@ -19,7 +19,7 @@ defmodule JeniaTest.Mixfile do
 
   defp deps do
     [
-      {:ecto, "== 2.2.0"}
+      {:mtproto_proxy, "== 0.7.1"}
     ]
   end
 end
