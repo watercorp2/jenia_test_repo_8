@@ -1,9 +1,10 @@
 [package]
-name = "peleg"
-version = "0.1.0"
+name = "rust-async-lock-restore-test"
+version = "0.1.100"
 edition = "2021"
 
+# 19.3.2023 12:38
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-quinn-proto = "<0.9.4"
+chrono = "0.4.38"
