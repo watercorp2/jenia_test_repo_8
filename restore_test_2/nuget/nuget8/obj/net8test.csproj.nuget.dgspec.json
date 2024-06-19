@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jenia/workspace/test_repo/jenia_test_repo_1/restore_test/nuget/nuget8/net8test.csproj": {}
+    "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget8/net8test.csproj": {}
   },
   "projects": {
-    "/Users/jenia/workspace/test_repo/jenia_test_repo_1/restore_test/nuget/nuget8/net8test.csproj": {
+    "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget8/net8test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jenia/workspace/test_repo/jenia_test_repo_1/restore_test/nuget/nuget8/net8test.csproj",
+        "projectUniqueName": "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget8/net8test.csproj",
         "projectName": "net8test",
-        "projectPath": "/Users/jenia/workspace/test_repo/jenia_test_repo_1/restore_test/nuget/nuget8/net8test.csproj",
+        "projectPath": "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget8/net8test.csproj",
         "packagesPath": "/Users/jenia/.nuget/packages/",
-        "outputPath": "/Users/jenia/workspace/test_repo/jenia_test_repo_1/restore_test/nuget/nuget8/obj/",
+        "outputPath": "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jenia/.nuget/NuGet/NuGet.Config"
