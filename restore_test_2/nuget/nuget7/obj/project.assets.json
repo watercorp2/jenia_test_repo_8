@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget7/net7test.csproj",
+      "projectUniqueName": "/Users/jenia/workspace/jenia_wip/jenia_test_repo_1/restore_test_2/nuget/nuget7/net7test.csproj",
       "projectName": "net7test",
-      "projectPath": "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget7/net7test.csproj",
+      "projectPath": "/Users/jenia/workspace/jenia_wip/jenia_test_repo_1/restore_test_2/nuget/nuget7/net7test.csproj",
       "packagesPath": "/Users/jenia/.nuget/packages/",
-      "outputPath": "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget7/obj/",
+      "outputPath": "/Users/jenia/workspace/jenia_wip/jenia_test_repo_1/restore_test_2/nuget/nuget7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jenia/.nuget/NuGet/NuGet.Config"

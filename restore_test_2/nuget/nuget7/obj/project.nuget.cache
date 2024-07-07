@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9NyphaLhrBIGX3lINykslQ1D5QRMOamfxEJwpKxIjpY+bNNbHiyR4nUJezZ5esxPhd+ijWjMh0euA2dxhvgbA==",
+  "dgSpecHash": "FzTAelJWAkU2vZuNTxxF4VWRhfy/oD1n3WMZx+TChtyqcnLjXfCTc7m6Dv1YMYxNXf45BtuBEFxG9i/xJNce9w==",
   "success": true,
-  "projectFilePath": "/Users/jenia/workspace/jenia_test_repo_1/restore_test_2/nuget/nuget7/net7test.csproj",
+  "projectFilePath": "/Users/jenia/workspace/jenia_wip/jenia_test_repo_1/restore_test_2/nuget/nuget7/net7test.csproj",
   "expectedPackageFiles": [
     "/Users/jenia/.nuget/packages/arangodbnetstandard/3.0.0/arangodbnetstandard.3.0.0.nupkg.sha512",
     "/Users/jenia/.nuget/packages/iamkinetic.jsondiffpatch.net/1.0.4/iamkinetic.jsondiffpatch.net.1.0.4.nupkg.sha512",
