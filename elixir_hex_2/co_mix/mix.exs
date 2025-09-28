@@ -39,3 +39,4 @@ defmodule CoMix.MixProject do
     ]
   end
 end
+
